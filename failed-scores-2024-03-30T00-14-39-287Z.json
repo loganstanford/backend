@@ -1,0 +1,197 @@
+{
+  "Jurassic Park": {
+    "scores": [
+      {
+        "username": "Cdbreezy",
+        "score": "748900070",
+        "iconUrl": "https://stern-static-prod.s3.amazonaws.com/stern-assets/avatars/Planet.png",
+        "colorRgb": "#1694c6"
+      },
+      {
+        "username": "Ghostcri",
+        "score": "321198260",
+        "iconUrl": "https://stern-static-prod.s3.amazonaws.com/stern-assets/avatars/Dog.png",
+        "colorRgb": "#8a7b7b"
+      },
+      {
+        "username": "palaty3",
+        "score": "286102250",
+        "iconUrl": "https://stern-static-prod.s3.amazonaws.com/stern-assets/avatars/Airplane.png",
+        "colorRgb": "#399d61"
+      },
+      {
+        "username": "pengie",
+        "score": "259800110",
+        "iconUrl": "https://stern-static-prod.s3.amazonaws.com/stern-assets/avatars/Cherries.png",
+        "colorRgb": "#3f65ea"
+      },
+      {
+        "username": "Njswalker",
+        "score": "194777720",
+        "iconUrl": "https://stern-static-prod.s3.amazonaws.com/stern-assets/avatars/Guitar.png",
+        "colorRgb": "#ed5f2c"
+      },
+      {
+        "username": "AbsintheBby",
+        "score": "154420910",
+        "iconUrl": "https://stern-static-prod.s3.amazonaws.com/stern-assets/avatars/Bomb.png",
+        "colorRgb": "#3f65ea"
+      },
+      {
+        "username": "BeerBarbie",
+        "score": "131324170",
+        "iconUrl": "https://stern-static-prod.s3.amazonaws.com/stern-assets/avatars/Snake.png",
+        "colorRgb": "#399d61"
+      },
+      {
+        "username": "Pike2hc",
+        "score": "126528820",
+        "iconUrl": "https://stern-static-prod.s3.amazonaws.com/stern-assets/avatars/Guitar.png",
+        "colorRgb": "#1694c6"
+      },
+      {
+        "username": "hasnfefr",
+        "score": "90986750",
+        "iconUrl": "https://stern-static-prod.s3.amazonaws.com/stern-assets/avatars/Frog.png",
+        "colorRgb": "#ee30f2"
+      },
+      {
+        "username": "John_Chimpo",
+        "score": "89121620",
+        "iconUrl": "https://stern-static-prod.s3.amazonaws.com/stern-assets/avatars/Frame-3.png",
+        "colorRgb": "#7e45c4"
+      }
+    ],
+    "headerUrl": "https://stern-wagtail-1.s3.amazonaws.com/media/images/jrp-primary-background_PejcQpl.format-webp.webp"
+  },
+  "Stranger Things": {
+    "scores": [
+      {
+        "username": "Pike2hc",
+        "score": "471787720",
+        "iconUrl": "https://stern-static-prod.s3.amazonaws.com/stern-assets/avatars/Guitar.png",
+        "colorRgb": "#1694c6"
+      },
+      {
+        "username": "Cdbreezy",
+        "score": "407721990",
+        "iconUrl": "https://stern-static-prod.s3.amazonaws.com/stern-assets/avatars/Planet.png",
+        "colorRgb": "#1694c6"
+      },
+      {
+        "username": "Ghostcri",
+        "score": "281800810",
+        "iconUrl": "https://stern-static-prod.s3.amazonaws.com/stern-assets/avatars/Dog.png",
+        "colorRgb": "#8a7b7b"
+      },
+      {
+        "username": "pengie",
+        "score": "246546030",
+        "iconUrl": "https://stern-static-prod.s3.amazonaws.com/stern-assets/avatars/Cherries.png",
+        "colorRgb": "#3f65ea"
+      },
+      {
+        "username": "hasnfefr",
+        "score": "223269400",
+        "iconUrl": "https://stern-static-prod.s3.amazonaws.com/stern-assets/avatars/Frog.png",
+        "colorRgb": "#ee30f2"
+      },
+      {
+        "username": "AbsintheBby",
+        "score": "217801820",
+        "iconUrl": "https://stern-static-prod.s3.amazonaws.com/stern-assets/avatars/Bomb.png",
+        "colorRgb": "#3f65ea"
+      },
+      {
+        "username": "JCC",
+        "score": "207065410",
+        "iconUrl": "https://stern-static-prod.s3.amazonaws.com/stern-assets/avatars/Flame.png",
+        "colorRgb": "#ed5f2c"
+      },
+      {
+        "username": "Njswalker",
+        "score": "194318750",
+        "iconUrl": "https://stern-static-prod.s3.amazonaws.com/stern-assets/avatars/Guitar.png",
+        "colorRgb": "#ed5f2c"
+      },
+      {
+        "username": "Sesame",
+        "score": "150127490",
+        "iconUrl": "https://stern-static-prod.s3.amazonaws.com/stern-assets/avatars/Clown.png",
+        "colorRgb": "#8a7b7b"
+      },
+      {
+        "username": "Moonee",
+        "score": "148252860",
+        "iconUrl": "https://stern-static-prod.s3.amazonaws.com/stern-assets/avatars/Crab.png",
+        "colorRgb": "#3f65ea"
+      }
+    ],
+    "headerUrl": "https://stern-wagtail-1.s3.amazonaws.com/media/images/str-primary-background_wavzZnh.format-webp.webp"
+  },
+  "Teenage Mutant Ninja Turtles": {
+    "scores": [
+      {
+        "username": "Lauradb",
+        "score": "54809320",
+        "iconUrl": "https://stern-static-prod.s3.amazonaws.com/stern-assets/avatars/Frame-2.png",
+        "colorRgb": "#ee30f2"
+      },
+      {
+        "username": "Cdbreezy",
+        "score": "42388050",
+        "iconUrl": "https://stern-static-prod.s3.amazonaws.com/stern-assets/avatars/Planet.png",
+        "colorRgb": "#1694c6"
+      },
+      {
+        "username": "Ghostcri",
+        "score": "32231440",
+        "iconUrl": "https://stern-static-prod.s3.amazonaws.com/stern-assets/avatars/Dog.png",
+        "colorRgb": "#8a7b7b"
+      },
+      {
+        "username": "hasnfefr",
+        "score": "17197000",
+        "iconUrl": "https://stern-static-prod.s3.amazonaws.com/stern-assets/avatars/Frog.png",
+        "colorRgb": "#ee30f2"
+      },
+      {
+        "username": "JCC",
+        "score": "16615106",
+        "iconUrl": "https://stern-static-prod.s3.amazonaws.com/stern-assets/avatars/Flame.png",
+        "colorRgb": "#ed5f2c"
+      },
+      {
+        "username": "ken",
+        "score": "12883836",
+        "iconUrl": "https://stern-static-prod.s3.amazonaws.com/stern-assets/avatars/Dog.png",
+        "colorRgb": "#1694c6"
+      },
+      {
+        "username": "Pike2hc",
+        "score": "11728240",
+        "iconUrl": "https://stern-static-prod.s3.amazonaws.com/stern-assets/avatars/Guitar.png",
+        "colorRgb": "#1694c6"
+      },
+      {
+        "username": "pengie",
+        "score": "11668610",
+        "iconUrl": "https://stern-static-prod.s3.amazonaws.com/stern-assets/avatars/Cherries.png",
+        "colorRgb": "#3f65ea"
+      },
+      {
+        "username": "AbsintheBby",
+        "score": "10113810",
+        "iconUrl": "https://stern-static-prod.s3.amazonaws.com/stern-assets/avatars/Bomb.png",
+        "colorRgb": "#3f65ea"
+      },
+      {
+        "username": "Njswalker",
+        "score": "8846700",
+        "iconUrl": "https://stern-static-prod.s3.amazonaws.com/stern-assets/avatars/Guitar.png",
+        "colorRgb": "#ed5f2c"
+      }
+    ],
+    "headerUrl": "https://stern-wagtail-1.s3.amazonaws.com/media/images/tur-primary-background_5CUCjNF.format-webp.webp"
+  }
+}
